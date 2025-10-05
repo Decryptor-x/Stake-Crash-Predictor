@@ -83,12 +83,12 @@ Join the project channels listed on the downloads page for release notes, suppor
 
 ## Contributing
 
-We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/decryptor-x/Stake-Crash-Predictor/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/Decryptor-x/Stake-Crash-Predictor/blob/main/CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/decryptor-x/Stake-Crash-Predictor/blob/main/LICENSE) file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/Decryptor-x/Stake-Crash-Predictor/blob/main/LICENSE) file.
 
 ---
 
-For further information and updates, visit our official website or engage with us through GitHub Discussions. Thank you for your interest in the **Aviator Predictor**! Happy betting!
+For further information and updates, visit our official website or engage with us through GitHub Discussions. Thank you for your interest in the **Stake Predictorr**!
