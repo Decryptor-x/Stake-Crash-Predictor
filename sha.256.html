@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SHA-256 Tool</title>
+  <meta name="description" content="Online SHA-256 and HMAC-SHA-256 hash generator with encoding options.">
+  <meta property="og:title" content="SHA-256 Tool">
+  <meta property="og:description" content="Online SHA-256 and HMAC-SHA-256 hash generator with encoding options.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="img/logo.png">
+  <meta property="og:site_name" content="SHA-256 Tool">
+  <link rel="stylesheet" href="css/style.css">
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-W7WQ4NX');</script>
+</head>
+<body>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7WQ4NX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div id="a">
+    <aside id="b"></aside>
+    <main id="c0">
+      <h1>SHA-256 / HMAC Generator</h1>
+      <div class="form">
+        <label for="msg">Message:</label>
+        <textarea id="msg"></textarea>
+
+        <label for="key">Key (for HMAC):</label>
+        <input type="text" id="key">
+
+        <button id="digestBtn">Digest</button>
+        <pre id="result"></pre>
+      </div>
+    </main>
+  </div>
+  <script src="js/sha256-hard-obf.js"></script>
+  <script src="js/hmac.js"></script>
+  <script src="js/encodings.js"></script>
+  <script src="js/clipboard.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
